@@ -19,11 +19,14 @@ Spring 2026
 
 **If you are interested in taking the course and can't directly enroll, please submit [this form](https://forms.gle/FEe8LdKJGk1KVwDs6).**
 
+**We're aware that enrollment currently appears closed, even for EECS graduate students. This is likely a system error, which we're working to fix. Please check back in a few weeks to enroll, or fill out the form above and you will get in.**
+
 <hr />
 
-This course provides a graduate-level introduction to Natural Language Processing (NLP). We will survey foundational approaches such as word representations and n-gram language models, followed by neural methods including recurrent networks and attention mechanisms, and then progress to modern Transformer-based architectures. In addition, the course will cover advanced topics in contemporary NLP such as retrieval-augmented models, mixture-of-experts architectures, AI agents, and vision-language models.
+This course provides a graduate-level introduction to Natural Language Processing (NLP). We will begin with foundational concepts such as word representations, and moving through neural approaches like recurrent networks and attention mechanisms. From there, we explore modern Transformer-based architectures and conclude with recent advances in the field, such as retrieval-augmented models, mixture-of-experts, AI agents, and more.
 
-**Prerequisites**: CS 288 assumes prior experience in machine learning and proficiency in PyTorch. Students should be familiar with neural networks, PyTorch, and NumPy; no introductory tutorials will be provided. Relevant experience can be gained in CS 182, 188, or 189. Prior coursework in linguistics or NLP (e.g., CS 183/283A) is recommended but not required.
+
+**Prerequisites**: CS 288 assumes prior experience in machine learning and proficiency in PyTorch. Students should be familiar with neural networks, PyTorch, and NumPy; no introductory tutorials will be provided.
 
 ## Schedule (Tentative)
 All deadlines are by 6PM PST.
