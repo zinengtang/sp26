@@ -29,7 +29,7 @@ This course provides a graduate-level introduction to Natural Language Processin
 **Prerequisites**: CS 288 assumes prior experience in machine learning and proficiency in PyTorch. Students should be familiar with neural networks, PyTorch, and NumPy; no introductory tutorials will be provided.
 
 ## Schedule (Tentative)
-All deadlines are by 6PM PST.
+All assignments are released on Tuesday, with an early milestone due at 5:59 PM two weeks later and the final deadline at 5:59 PM that Thursday.
 
 {% for module in site.modules %}
 {{ module }}

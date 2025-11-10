@@ -4,30 +4,32 @@ title: Schedule
 
 01/20 Tue
 : Introduction
+: **Assignment 1 released**{: .label .label-yellow}
 
 01/22 Thu
 : Word representation & Text classification
 
 01/27 Tue
 : Language modeling basics
-: **Assignment 1 released**{: .label .label-yellow}
 
 01/29 Thu
 : Recurrent models & Attention
 
 02/03 Tue
 : Pre-LLM case study: Text generation
+: **Assignment 1 early milestone due**{: .label .label-yellow}
 
 02/05 Thu
 : Pre-LLM case study: Question answering
+: **Assignment 1 due**{: .label .label-yellow}
 
 02/10 Tue
 : LLM basics: Architecture (Tokenizer, Transformers, Encoders, Decoders)
-: **Assignment 1 due**{: .label .label-yellow}
+: **Assignment 2 released**{: .label .label-yellow}
 
 02/12 Thu
 : LLM basics: Training (Pre-training, Fine-tuning)
-: **Assignment 2 released**{: .label .label-yellow}
+: **Team matching survey due**{: .label .label-yellow}
 
 02/17 Tue
 : LLM basics: GPT-3, Prompting, In-context learning
@@ -37,6 +39,7 @@ title: Schedule
 
 02/24 Tue
 : LLM deep dive: Data curation
+: **Assignment 2 early milestone due**{: .label .label-yellow}
 
 02/26 Thu
 : LLM deep dive: Post-training
@@ -44,10 +47,11 @@ title: Schedule
 
 03/03 Tue
 : LLM deep dive: Inference methods & Evaluation
+: **Assignment 3 released**{: .label .label-yellow}
 
 03/05 Thu
 : Experimental design & Human annotation
-: **Assignment 3 released**{: .label .label-yellow}
+: **Project abstract due**{: .label .label-yellow}
 
 03/10 Tue
 : Retrieval and RAG
@@ -57,6 +61,7 @@ title: Schedule
 
 03/17 Tue
 : Mixture-of-Experts
+: **Assignment 3 early milestone due**{: .label .label-yellow}
 
 03/19 Thu
 : Test-time compute & Reasoning models
@@ -83,10 +88,11 @@ title: Schedule
 
 04/14 Tue
 : Pragmatics
-: **Assignment 4 due**{: .label .label-yellow}
+: **Assignment 4 early milestone**{: .label .label-yellow}
 
 04/16 Thu
 : Impact & Social implications
+: **Assignment 4 due**{: .label .label-yellow}
 
 04/21 Tue
 : Guest lecture (TBA)
@@ -99,4 +105,4 @@ title: Schedule
 
 04/30 Thu
 : Project presentation
-: **Project report due by 05/05 (Tue)**{: .label .label-yellow}
+: **Project report due by 05/07 (Thu)**{: .label .label-yellow}

@@ -23,9 +23,11 @@ All team members will receive the same score for team assignments and projects.
 
 ### Late Days
 
-You have a total of 6 late days to use during the semester. This covers all possible circumstances of unanticipated delays, including illness, unexpected travel, or emergency. If you need an exception for this, you must arrange via DSP. Otherwise, additional late days are not allowed for any circumstances.
+You have **a total of 6 late days** to use during the semester for the assignments. This covers all possible circumstances of unanticipated delays, including illness, unexpected travel, or emergency. If you need an exception for this, you must arrange via DSP. Otherwise, additional late days are not allowed for any circumstances.
 
-You may not use more than 2 late days per assignment. Gradescope will be closed after 48 hours (if it happens to remain open after that, you can still submit). Once Gradescope closes, any missing submission will receive zero. Only the latest submission will be graded if you submit multiple times.
+**You may not use more than 2 late days per assignment.** Gradescope will be closed after 48 hours (if it happens to remain open after that, you can still submit). Once Gradescope closes, any missing submission will receive zero. Only the latest submission will be graded if you submit multiple times.
+
+**Late days cannot be used for project-related deadlines** (e.g., team matching survey, abstract, or project report).
 
 We do not keep track of partial late days. One late day is spent per 24 hour window after the deadline, including if a submission occurs within (including at the very beginning of) a window. 
 
