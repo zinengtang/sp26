@@ -19,7 +19,6 @@ Spring 2026
 
 **If you are interested in taking the course and can't directly enroll, please submit [this form](https://forms.gle/FEe8LdKJGk1KVwDs6).**
 
-**We're aware that enrollment currently appears closed, even for EECS graduate students. This is likely a system error, which we're working to fix. Please check back in a few weeks to enroll, or fill out the form above and you will get in.**
 
 <hr />
 
@@ -29,7 +28,7 @@ This course provides a graduate-level introduction to Natural Language Processin
 **Prerequisites**: CS 288 assumes prior experience in machine learning and proficiency in PyTorch. Students should be familiar with neural networks, PyTorch, and NumPy; no introductory tutorials will be provided.
 
 ## Schedule (Tentative)
-All assignments are released on Tuesday, with an early milestone due at 5:59 PM two weeks later and the final deadline at 5:59 PM that Thursday.
+All deadlines are at 5:59 PM PST.
 
 {% for module in site.modules %}
 {{ module }}

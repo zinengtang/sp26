@@ -4,63 +4,58 @@ title: Schedule
 
 01/20 Tue
 : Introduction
-: **Assignment 1 released**{: .label .label-yellow}
 
 01/22 Thu
 : Word representation & Text classification
 
 01/27 Tue
 : Language modeling basics
+: **Assignment 1 released**{: .label .label-yellow}
 
 01/29 Thu
 : Recurrent models & Attention
 
 02/03 Tue
-: Pre-LLM case study: Text generation
-: **Assignment 1 early milestone due**{: .label .label-yellow}
+: NLP task case study: Text generation
 
 02/05 Thu
-: Pre-LLM case study: Question answering
-: **Assignment 1 due**{: .label .label-yellow}
+: NLP task case study: Question answering
 
 02/10 Tue
 : LLM basics: Architecture (Tokenizer, Transformers, Encoders, Decoders)
-: **Assignment 2 released**{: .label .label-yellow}
+: **Assignment 1 due**{: .label .label-yellow} **Team matching survey due**{: .label .label-yellow} **Assignment 2 released**{: .label .label-yellow}
 
 02/12 Thu
 : LLM basics: Training (Pre-training, Fine-tuning)
-: **Team matching survey due**{: .label .label-yellow}
 
 02/17 Tue
 : LLM basics: GPT-3, Prompting, In-context learning
 
 02/19 Thu
-: LLM deep dive: Scaling laws
+: Pre-training deep dive: Scaling laws
 
 02/24 Tue
-: LLM deep dive: Data curation
-: **Assignment 2 early milestone due**{: .label .label-yellow}
-
-02/26 Thu
-: LLM deep dive: Post-training
+: Pre-training deep dive: Data curation
 : **Assignment 2 due**{: .label .label-yellow}
 
+02/26 Thu
+: Experimental design & Human annotation
+
 03/03 Tue
-: LLM deep dive: Inference methods & Evaluation
-: **Assignment 3 released**{: .label .label-yellow}
+: Architecture deep dive: Retrieval and RAG
+: **Project abstract due**{: .label .label-yellow} **Assignment 3 released**{: .label .label-yellow}
 
 03/05 Thu
-: Experimental design & Human annotation
-: **Project abstract due**{: .label .label-yellow}
+: Architecture deep dive: Mixture-of-Experts
 
 03/10 Tue
-: Retrieval and RAG
+: Post-training
 
 03/12 Thu
-: Long-context LLM
+: Inference methods & Evaluation
 
 03/17 Tue
-: Mixture-of-Experts
+: Guest lecture (TBA)
 : **Assignment 3 early milestone due**{: .label .label-yellow}
 
 03/19 Thu
