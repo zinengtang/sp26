@@ -26,10 +26,3 @@ TBA
 
 TBA
 
-### Assignment 4: Build Your Own LLM Agent for Berkeley EECS
-**Released 03/31**{: .label .label-yellow}
-**Early milestone due 04/14**{: .label .label-yellow}
-**Due 04/16**{: .label .label-yellow}
-**Group assignment**{: .label .label-pink}
-
-TBA

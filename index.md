@@ -22,8 +22,7 @@ Spring 2026
 
 <hr />
 
-This course provides a graduate-level introduction to Natural Language Processing (NLP). We will begin with foundational concepts such as word representations, and moving through neural approaches like recurrent networks and attention mechanisms. From there, we explore modern Transformer-based architectures and conclude with recent advances in the field, such as retrieval-augmented models, mixture-of-experts, AI agents, and more.
-
+This course provides a graduate-level introduction to Natural Language Processing (NLP), covering techniques from foundational methods to modern approaches. We begin with core concepts such as word representations and neural network–based NLP models, including recurrent networks and attention mechanisms. We then study modern Transformer-based models, focusing on pre-training, fine-tuning, prompting, scaling laws, and post-training. The course concludes with recent advances in NLP, including retrieval-augmented models, reasoning models, and multimodal systems involving vision and speech.
 
 **Prerequisites**: CS 288 assumes prior experience in machine learning and proficiency in PyTorch. Students should be familiar with neural networks, PyTorch, and NumPy; no introductory tutorials will be provided.
 
@@ -33,3 +32,19 @@ All deadlines are at 5:59 PM PST.
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
+
+
+## Acknowledgement
+
+The class materials, including lectures and assignments, are largely based on the following courses, whose instructors have generously made their materials publicly available. We are deeply grateful to them for sharing their work with the broader community:
+- [Princeton COS 484 Natural Language Processing](https://princeton-nlp.github.io/cos484/) by Danqi Chen, Tri Dao, Vikram Ramaswamy
+- [CMU Advanced Natural Language Processing](https://cmu-l3.github.io/anlp-fall2025/) by Graham Neubig & Sean Welleck
+- [Stanford CS336 Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/) by Tatsumori Hashimoto & Percy Liang
+- [Cornell LM-class](https://lm-class.org/) by Yoav Artzi
+- [An earlier offering of UC Berkeley EECS 288 Natural Language Processing](https://cal-cs288.github.io/fa24/) by Dan Klein and Alane Suhr
+
+
+We are grateful to [VESSL AI](https://vessl.ai/) and [Google Cloud](https://cloud.google.com/edu/faculty?hl=en) for providing compute credits to support our final projects.
+
+<img src="assets/vessl-ai.png" alt="VESSL AI" style="width: 50%;">
+<img src="assets/google-cloud.png" alt="Google Cloud" style="width: 50%;">

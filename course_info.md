@@ -6,17 +6,16 @@ nav_order: 4
 
 # Course Info
 
-This course provides a graduate-level introduction to Natural Language Processing (NLP). We will begin with foundational concepts such as word representations, and moving through neural approaches like recurrent networks and attention mechanisms. From there, we explore modern Transformer-based architectures and conclude with recent advances in the field, such as retrieval-augmented models, mixture-of-experts, AI agents, and more.
+This course provides a graduate-level introduction to Natural Language Processing (NLP), covering techniques from foundational methods to modern approaches. We begin with core concepts such as word representations and neural network–based NLP models, including recurrent networks and attention mechanisms. We then study modern Transformer-based models, focusing on pre-training, fine-tuning, prompting, scaling laws, and post-training. The course concludes with recent advances in NLP, including retrieval-augmented models, reasoning models, and multimodal systems involving vision and speech.
 
 ### Grading
 
 - Quizzes/Participation: 5%
 - Assignments
-	- Assignment 1: 10%
-	- Assignment 2: 15%
+	- Assignment 1: 15%
+	- Assignment 2: 20%
 	- Assignment 3: 20%
-	- Assignment 4: 20%
-- Final Project: 30% 
+- Final Project: 40% 
 
 All team members will receive the same score for team assignments and projects.
 
@@ -25,9 +24,9 @@ All team members will receive the same score for team assignments and projects.
 
 You have **a total of 6 late days** to use during the semester for the assignments. This covers all possible circumstances of unanticipated delays, including illness, unexpected travel, or emergency. If you need an exception for this, you must arrange via DSP. Otherwise, additional late days are not allowed for any circumstances.
 
-**You may not use more than 2 late days per assignment.** Gradescope will be closed after 48 hours (if it happens to remain open after that, you can still submit). Once Gradescope closes, any missing submission will receive zero. Only the latest submission will be graded if you submit multiple times.
+**You may not use more than 3 late days per assignment.** Gradescope will be closed after 48 hours (if it happens to remain open after that, you can still submit). Once Gradescope closes, any missing submission will receive zero. Only the latest submission will be graded if you submit multiple times.
 
-**Late days cannot be used for project-related deadlines** (e.g., team matching survey, abstract, or project report).
+**Late days cannot be used for project-related deadlines.**
 
 We do not keep track of partial late days. One late day is spent per 24 hour window after the deadline, including if a submission occurs within (including at the very beginning of) a window. 
 
