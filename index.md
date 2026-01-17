@@ -13,8 +13,8 @@ Spring 2026
 **Instructor**: 		[Sewon Min](https://www.sewonmin.com/), [Alane Suhr](https://www.alanesuhr.com/)<br />
 **Class hours**: 		TuThu 15:30–17:00 (15:40–17:00 considering Berkeley time) <br />
 **Class location**: 	SODA 306 <br />
-**Contact**:			TBA <br />
-**Ed link**:      		TBA <br />
+**Instructor OH**: 		Right after the lectures at SODA 347<br />
+**Ed link**:      		[edstem.org/us/courses/92268](https://edstem.org/us/courses/92268) (Please use Ed for any class related questions)<br />
 
 
 **If you are interested in taking the course and can't directly enroll, please submit [this form](https://forms.gle/FEe8LdKJGk1KVwDs6).**

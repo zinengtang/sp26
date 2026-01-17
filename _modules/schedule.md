@@ -75,24 +75,24 @@ title: Schedule
 : Vision-language models
 
 04/07 Tue
-: Speech models
+: Interactive embodied agents
 
 04/09 Thu
-: Interactive embodied agents
+: Guest lecture: "Advancing the Capability and Safety of Computer-Use Agents" by [Huan Sun](https://u.osu.edu/ihudas/people/) (OSU)
 : **Project Checkpoint 2 (midpoint report) due**{: .label .label-yellow}
 
 04/14 Tue
-: Pragmatics
+: Guest lecture: "Memory in Language Models: Representation and Extraction" by [Jack Morris](https://jxmo.io/) (Cornell &#8594; Stealth)
 
 04/16 Thu
-: Impact & Social implications
+: Pragmatics
 
 
 04/21 Tue
-: Guest lecture (TBA)
+: Impact & Social implications
 
 04/23 Thu
-: Guest lecture (TBA)
+: Guest lecture: "Speech" by [Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/) (UC Berkeley)
 
 04/28 Tue
 : Project presentation
