@@ -10,7 +10,7 @@ Spring 2026
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 
-**Instructor**: 		[Sewon Min](https://www.sewonmin.com/), [Alane Suhr](https://www.alanesuhr.com/)<br /> <br />
+**Instructor**: 		[Sewon Min](https://www.sewonmin.com/), [Alane Suhr](https://www.alanesuhr.com/)<br />
 **Class hours**: 		TuThu 15:30–17:00 (15:40–17:00 considering Berkeley time) <br /> 
 **Class location**: 	SODA 306 <br /> <br />
 **Instructor OH**: 		Right after the lectures at SODA 347<br />
