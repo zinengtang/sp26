@@ -48,7 +48,7 @@ nav_order: 5
 		<h3 class="staffer-name"> <a href="https://zinengtang.github.io/">Zineng Tang</a> </h3>
 		<p class="staffer-meta">GSI</p>
 		<p class="staffer-meta">
-			<a href="mailto:zn.tang.terran@gmail.com">zn.tang.terran@gmail.com</a>
+			<a href="mailto:zn.tang.terran@gmail.com">terran@berkeley.edu</a>
 		</p>
 	</div>
 </div>
