@@ -3,7 +3,7 @@ title: Schedule
 ---
 
 01/20 Tue
-: Introduction & n-gram LM
+: [Introduction](assets/slides/CS288_sp26_01_Intro.pdf) & [n-gram LM](assets/slides/CS288_sp26_02_ngram_LM.pdf)
 
 01/22 Thu
 : Word representation
