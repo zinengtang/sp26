@@ -51,12 +51,13 @@ summary {
   dd {
     font-weight: normal;
 
-    + dt {
+    +dt {
       margin-top: 1em;
     }
   }
 
-  .module > dl > dt + dd, .module > dl > dt + dd {
+  .module>dl>dt+dd,
+  .module>dl>dt+dd {
     border-top: 1px solid #eeebee;
   }
 
@@ -67,6 +68,10 @@ summary {
 .label {
   font-weight: normal;
   margin-left: 0;
+}
+
+.label-green {
+  background-color: #ADE6D8;
 }
 
 .label-yellow {
@@ -91,5 +96,3 @@ dt:has(.gray) {
 dd:has(.gray) {
   background-color: #e0e0e0;
 }
-
-
